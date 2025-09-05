@@ -44,8 +44,8 @@ EthicHunter Pro is a **powerful, modular, and privacy-focused** toolkit designed
 
 ### **Step-by-Step Setup**
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/YourUsername/EthicHunterPro.git
+   ```bash[
+   git clone https://github.com/vatsalsapovadiya/EthicHunter.git
    cd EthicHunterPro
    ```
 
@@ -98,9 +98,6 @@ EthicHunter Pro is a **powerful, modular, and privacy-focused** toolkit designed
 4. Push to the branch (`git push origin feature/awesome-feature`).
 5. Open a Pull Request.
 
----
-**EthicHunter Pro**
-Created by: Vatsal Sapovadiya
 ---
 
 ## 🌟 Support the Project
